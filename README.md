@@ -70,8 +70,8 @@ print()
 from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
-print("NAME : SHIVANI M")
-print("Register No: 212224040313")
+print("NAME : PRIYANKA S")
+print("Register No: 212224040255")
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
